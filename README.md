@@ -1,4 +1,6 @@
 ## Hello! My name is Kirill. Welcome :raised_hand:
+## I learn Java at [Job4j](https://job4j.ru/)
+https://img.shields.io/badge/Spring->=3-blue
 
 <!--
 **kozinus/kozinus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
