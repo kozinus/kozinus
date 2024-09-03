@@ -1,6 +1,6 @@
 ## Hello! My name is Kirill. Welcome :raised_hand:
 ## I learn Java at [Job4j](https://job4j.ru/)
-![Spring](https://img.shields.io/badge/Spring->=3-blue)![Java](https://img.shields.io/badge/Java->=8-blue)![Java](https://img.shields.io/badge/Java->=8-blue)
+![Spring](https://img.shields.io/badge/Spring->=3-green)![Postgres](https://img.shields.io/badge/Postgres->=15-blue)![Java](https://img.shields.io/badge/Java->=8-orange)
 
 
 <!--
